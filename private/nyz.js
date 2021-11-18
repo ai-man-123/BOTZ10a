@@ -8,11 +8,11 @@
   */
  const petik = '```'
  const nmr = '+'
-const helpmenu = (wit,wita,wib,tampilTanggal, UserZeeone, tampilHari , limitawal, role, premi, sender, botname,pushname, prefix, wa_version, mcc, mnc, os_version, device_manufacturer, device_model ) => {
+const helpmenu = (wit,wita,wib,tampilTanggal, Useraiman, tampilHari , limitawal, role, premi, sender, botname,pushname, prefix, wa_version, mcc, mnc, os_version, device_manufacturer, device_model ) => {
 	return`╭─❒ *INFO BOT* 
 │❒ ${petik}𝖭𝖺𝗆𝖺 : ${botname}${petik}
 │❒ ${petik}Author : Nayla${petik}
-│❒ ${petik}Recode : Zeeone${petik}
+│❒ ${petik}Recode : Aiman${petik}
 │❒ ${petik}Server : Baileys${petik}
 │❒ ${petik}RAM : ${(process.memoryUsage().heapUsed / 1024 / 1024).toFixed(2)}MB / ${Math.round(require('os').totalmem / 1024 / 1024)}MB${petik}
 │❒ ${petik}MCC : ${mcc}${petik}
@@ -724,9 +724,9 @@ ${petik}│❒ ${prefix}wetglass
 ╭─⧉ *THANKS TO* ⧉
 ├◪ 
 │❒ ${petik}NAYLACHAN${petik}  
-│❒ ${petik}RYNZ${petik}  
+│❒ ${petik}×͜× Aiman 亗ᴮᵒᵗ${petik}  
 │❒ ${petik}LOLI KILLERS${petik}  
-│❒ ${petik}ARA-ARA${petik} 
+│❒ ${petik}Aiman*͘⁴̅⁰͍⁴̵〆*${petik} 
 │❒ ${petik}ZEEONE${petik} 
 ╰───────────────┈ ⳹
 */
@@ -2087,7 +2087,7 @@ ${petik}│◦➛Owner : ${ownername}
 │◦➛Version : 3.5.2${petik}
 ${petik}│◦➛Speed : ${speedbotz.toFixed(4)} Second${petik} 
 ${petik}│◦➛Runtime : ${kyun(boton)}${petik}
-${petik}└❏ ${UserZeeone.length} users${petik}
+${petik}└❏ ${Useraiman.length} users${petik}
 
 
 ╭─❒ *NSFW & SFW MENU*
